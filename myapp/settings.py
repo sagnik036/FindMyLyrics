@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-kvv-@wvoi!8_0itrtj_=v##ut=3&c+zi#(qbz82($ou5#9@gj8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost','https://fetchmylyrics.herokuapp.com']
+ALLOWED_HOSTS = ['localhost','fetchmylyrics.herokuapp.com']
 
 
 # Application definition
